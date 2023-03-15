@@ -1,5 +1,9 @@
 [
   {
+    "package": "ggarchery",
+    "oncran": true
+  },
+  {
     "package": "STraTUS",
     "oncran": true
   }
