@@ -2,10 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ggarchery"]
-	path = ggarchery
-	url = https://github.com/mdhall272/ggarchery
 [submodule "STraTUS"]
 	path = STraTUS
 	url = https://github.com/mdhall272/stratus
 	subdir = STraTUS
+[submodule "ggarchery"]
+	path = ggarchery
+	url = https://github.com/mdhall272/ggarchery
